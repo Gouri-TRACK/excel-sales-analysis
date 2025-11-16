@@ -15,7 +15,7 @@ This repository contains an interactive *Excel Dashboard* created for visualizin
 
 ## 📁 Files Included
 - Excel_Dashboard_Sales_Analysis.xlsx – Excel workbook containing the interactive dashboard  
-![Dashboard Preview](dashboard.jpg)
+![Dashboard Preview](excel_dashboard.jpeg)
 
 ## 🚀 How to Use
 1. Download the .xlsx file.  
